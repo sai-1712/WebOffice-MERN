@@ -1,0 +1,45 @@
+{
+  "employees": [
+    {
+      "id": "101",
+      "fname": "sai",
+      "lname": "kiran",
+      "uname": "sk",
+      "emailid": "ravirala@gmail.com",
+      "jdate": "12-12-12",
+      "phone": "9898989898",
+      "company": "okokoko",
+      "department": "yesyesyes",
+      "designation": "Web Developer"
+    },
+    {
+      "id": "123",
+      "fname": "sk",
+      "lname": "test",
+      "uname": "RAHUL",
+      "emailid": "vaibhva23@gmail.com",
+      "jdate": "12-12-12",
+      "phone": "08179796168",
+      "company": "Delta Infotech",
+      "department": "Web Development",
+      "designation": "Web Designer"
+    }
+  ],
+  "projects": [
+    {
+      "budget": "5555",
+      "clientName": "Global Technologies",
+      "endDate": "2022-12-06T18:30:00.000Z",
+      "pdescription": "gfgfgf",
+      "priority": "Low",
+      "progress": "Pending",
+      "projectLeader": "vd",
+      "projectName": "office",
+      "startDate": "2022-12-04T18:30:00.000Z",
+      "team": "['bjhj', 'ghs', 'sh', 'shs', 'sh', 'sh']"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
